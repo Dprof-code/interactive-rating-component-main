@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dprof-code/interactive-rating-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dprof-code/interactive-rating-component-main/]
+- Live Site URL: [https://polite-chimera-3aa0d8.netlify.app/]
 
 ## My process
 
